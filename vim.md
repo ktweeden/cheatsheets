@@ -5,3 +5,5 @@
 * G move to end of file
 * gg move to beginning of file
 * $ move to end of line
+* Ctrl-B  page up
+* Ctrl-F  page down
