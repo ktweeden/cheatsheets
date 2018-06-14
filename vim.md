@@ -7,3 +7,7 @@
 * $ move to end of line
 * Ctrl-B  page up
 * Ctrl-F  page down
+
+## Deleting and copying
+* cw remove current word and enter insert mode
+* dd delete line and add to clipboard

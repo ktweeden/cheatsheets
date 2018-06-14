@@ -3,3 +3,5 @@ A collection of cheat sheets for various programs, languages and other bits and 
 
 ## Contents
 * Vim
+* Vs Code
+* Git
